@@ -1,7 +1,6 @@
 {
   "logo": null,
   "ffBanner": "ff-banner-1793929248314.png",
-  "ffPackages": null,
   "banners": [
     "banner-1793928993498-7603.jpg",
     "default:Banner 2.jpg",
@@ -20,5 +19,8 @@
       "label": "YouTube channel",
       "url": "https://www.youtube.com/@omarPlays2.0"
     }
-  ]
+  ],
+  "images": null,
+  "prod": null,
+  "texts": null
 }
